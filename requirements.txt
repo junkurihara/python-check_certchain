@@ -1,5 +1,5 @@
 certifi==2021.10.8
-cffi==1.14.6
+cffi==1.15.0
 cryptography==35.0.0
 pem==21.2.0
 pycparser==2.20
