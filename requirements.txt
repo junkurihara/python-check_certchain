@@ -3,5 +3,5 @@ cffi==1.16.0
 cryptography==42.0.8
 pem==23.1.0
 pycparser==2.22
-pyOpenSSL==24.1.0
+pyOpenSSL==24.2.1
 six==1.16.0
