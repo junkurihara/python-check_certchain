@@ -4,4 +4,4 @@ cryptography==44.0.0
 pem==23.1.0
 pycparser==2.22
 pyOpenSSL==24.3.0
-six==1.16.0
+six==1.17.0
