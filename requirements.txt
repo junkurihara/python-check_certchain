@@ -1,6 +1,6 @@
 certifi==2025.1.31
 cffi==1.17.1
-cryptography==44.0.1
+cryptography==44.0.2
 pem==23.1.0
 pycparser==2.22
 pyOpenSSL==24.3.0
